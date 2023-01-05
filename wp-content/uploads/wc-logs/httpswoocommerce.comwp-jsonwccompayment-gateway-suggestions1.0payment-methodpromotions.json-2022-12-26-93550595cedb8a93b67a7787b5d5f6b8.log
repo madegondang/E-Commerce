@@ -1,0 +1,396 @@
+2022-12-26T01:31:12+00:00 ERROR Error getting data feed
+2022-12-26T01:31:12+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-12-26T01:34:35+00:00 ERROR Error getting data feed
+2022-12-26T01:34:35+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-12-26T01:34:56+00:00 ERROR Error getting data feed
+2022-12-26T01:34:56+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-12-26T01:35:19+00:00 ERROR Error getting data feed
+2022-12-26T01:35:19+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-12-26T01:35:49+00:00 ERROR Error getting data feed
+2022-12-26T01:35:49+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-12-26T01:36:15+00:00 ERROR Error getting data feed
+2022-12-26T01:36:15+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-12-26T01:36:22+00:00 ERROR Error getting data feed
+2022-12-26T01:36:22+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-12-26T01:36:48+00:00 ERROR Error getting data feed
+2022-12-26T01:36:48+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-12-26T01:36:56+00:00 ERROR Error getting data feed
+2022-12-26T01:36:56+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-12-26T01:37:18+00:00 ERROR Error getting data feed
+2022-12-26T01:37:18+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-12-26T01:38:27+00:00 ERROR Error getting data feed
+2022-12-26T01:38:27+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-12-26T01:38:38+00:00 ERROR Error getting data feed
+2022-12-26T01:38:38+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-12-26T01:39:05+00:00 ERROR Error getting data feed
+2022-12-26T01:39:05+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-12-26T01:39:55+00:00 ERROR Error getting data feed
+2022-12-26T01:39:55+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-12-26T01:40:01+00:00 ERROR Error getting data feed
+2022-12-26T01:40:01+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-12-26T01:40:53+00:00 ERROR Error getting data feed
+2022-12-26T01:40:53+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-12-26T01:49:17+00:00 ERROR Error getting data feed
+2022-12-26T01:49:17+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-12-26T01:49:30+00:00 ERROR Error getting data feed
+2022-12-26T01:49:30+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
